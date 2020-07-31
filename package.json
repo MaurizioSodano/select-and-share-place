@@ -15,11 +15,14 @@
   "author": "Maurizio Sodano",
   "license": "ISC",
   "devDependencies": {
+    "dotenv-webpack": "^2.0.0",
     "ts-loader": "^8.0.1",
     "typescript": "^3.9.7",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
